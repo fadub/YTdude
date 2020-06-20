@@ -21,8 +21,8 @@ A Youtube-Downloader app for Android I've built with Java using the Android SDK.
 ## Legal
 Since I've only used it for myself and it does not work anymore for years, I hope it's okay to have this on my GitHub.
 
-<img src="readme-img/YTdude-1.jpg" width="50%">
-<img src="readme-img/YTdude-2.jpg" width="50%">
-<img src="readme-img/YTdude-3.jpg" width="50%">
-<img src="readme-img/YTdude-4.jpg" width="50%">
-<img src="readme-img/YTdude-5.jpg" width="50%">
+<img src="readme-img/YTdude-1.jpg" width="20%">
+<img src="readme-img/YTdude-2.jpg" width="20%">
+<img src="readme-img/YTdude-3.jpg" width="20%">
+<img src="readme-img/YTdude-4.jpg" width="20%">
+<img src="readme-img/YTdude-5.jpg" width="20%">
